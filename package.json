@@ -1,0 +1,16 @@
+{
+  "name": "js_epam",
+  "version": "1.0.0",
+  "description": "Automated Testing Basics in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "homepage": "https://github.com/belachub/JS_EPAM.git",
+  "author": "belachub",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^11.1.1"
+  }
+}
